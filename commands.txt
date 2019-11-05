@@ -1,4 +1,4 @@
- 1  sudo apt update
+ 1  sudo su / sudo apt update
     2  sudo apt install apache2
     3  vi /var/www/html
     4  vi /var/www/html/index.html
@@ -45,4 +45,4 @@
    45  cd /opt/apache-tomcat-8.5.47/bin
    46  ls -l
    47  bash shutdown.sh
-   48  bash startup.sh
+   48  bash startup.sh 
