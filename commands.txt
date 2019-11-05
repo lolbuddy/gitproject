@@ -1,4 +1,4 @@
- 1  sudo su / sudo apt update
+ 1  sudo su / sudo apttygtbbhbthy update
     2  sudo apt install apache2
     3  vi /var/www/html
     4  vi /var/www/html/index.html
